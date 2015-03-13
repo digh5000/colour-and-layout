@@ -84,7 +84,7 @@ To learn how to style your webpage appropriately, you can [follow this tutorial 
 
 ## Layout
 
-'Layout' can mean different things in different contexts. A general overview on issues in layout is covered by ['What makes design great, Lynda.com](http://www.lynda.com/Illustrator-tutorials/What-makes-design-great/161817/177322-4.html) and ['Exploring principles of layout and composition'](http://www.lynda.com/Illustrator-tutorials/Exploring-principles-layout-composition/161817/177323-4.html)
+'Layout' can mean different things in different contexts. A general overview on issues in layout is covered by ['What makes design great, Lynda.com](http://www.lynda.com/Illustrator-tutorials/What-makes-design-great/161817/177322-4.html) and ['Exploring principles of layout and composition'](http://www.lynda.com/Illustrator-tutorials/Exploring-principles-layout-composition/161817/177323-4.html). This [slideshare](http://www.slideshare.net/kernlearningsolutions/what-is-an-effective-layout-3435438) gives you a sense of things to watch out for as well.
 
 For academic posters in particular, consider [these suggestions from the APA](http://www.apa.org/gradpsych/2011/01/poster.aspx).
 
@@ -105,14 +105,23 @@ _____
 More resources, tutorials, and things to explore.
 
 
-## Poster Design
+## Infographics / Storytelling
+_Infographics_
++ [The Difference between Infographics and Visualizations](https://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization)
++ [Design hints for infographics](http://piktochart.com/infographics-design-series-design-your-infographic-like-a-pro/)
++ [Piktochart](http://piktochart.com/)
++ [Infogr.am](https://infogr.am/)
++ [Infoactive.co](https://infoactive.co) (has a free option, but might not allow exports. You'd have to check).
++ [Easel.ly](http://www.easel.ly/)
 
-
------
-
-## Infographics
-[The Difference between Infographics and Visualizations](https://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization)
-
+_Storytelling_
++ [Creatavist](https://creatavist.com/)
++ [Medium](https://medium.com/)
++ [Cowbird](http://cowbird.com/)
++ [Exposure](https://exposure.co/)
++ [Timeline.js](timeline.knightlab.com)
++ [Storymap](storymap.knightlab.com/)
++ 
 
 ## ManyLines
 
