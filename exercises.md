@@ -1,10 +1,12 @@
 # Exercises
 
 The exercises in this module are about colour, layout, and manipulating graphics - but not necessarily in that order. All students must complete the 'Sprucing up a PDF in Inkscape' exercise, as well as the 'Typography', 'Colour', and 'Layout' exercises. Everything after that is optional (including the option to not do them).
-![ukraine](http://uploads.neatorama.com/images/posts/587/74/74587/1407463055-0.jpg)
-[Ukraine fist fight](http://www.theguardian.com/artanddesign/2014/aug/06/accidental-renaissance-photojournalism-italian-painting-ukraine-frank-lampard)
 
 [Sprucing up a PDF in Inkscape](#sprucing-up-a-pdf-in-inkscape) | [Typography](#typography) | [Colour](#colour) | [Layout](#layout) | [More](#more)
+
+![ukraine](http://uploads.neatorama.com/images/posts/587/74/74587/1407463055-0.jpg)
+
+[Ukraine fist fight](http://www.theguardian.com/artanddesign/2014/aug/06/accidental-renaissance-photojournalism-italian-painting-ukraine-frank-lampard)
 
 ### By the way: Raster v Vector
 The first thing to know is that graphic images come in two distince flavours - raster, and vector.
