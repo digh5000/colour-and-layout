@@ -85,6 +85,10 @@ To learn how to style your webpage appropriately, you can [follow this tutorial 
 
 [Effective colour contrast](http://www.lighthouse.org/accessibility/design/accessible-print-design/effective-color-contrast)
 
+Colours in Cultures:
+
+![cinc](http://infobeautiful3.s3.amazonaws.com/2013/01/1276_colours_in_culture.png)
+
 -----
 
 ## Layout
