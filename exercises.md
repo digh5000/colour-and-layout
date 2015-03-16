@@ -121,6 +121,7 @@ While most of this applies to websites, think also about how the general princip
 + [Web Accessibility Evaluation Tool](http://wave.webaim.org/)
 + [Considering the User Perspective](http://webaim.org/articles/userperspective/)
 + [Constructing a POUR Website](http://webaim.org/articles/userperspective/) Percievable, Operable, Understandable, Robust. Applies much wider than design of websites.
++ [Checking Microsoft Office-generated documents for accessibility](https://support.office.com/en-us/article/Check-for-accessibility-issues-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f?CorrelationId=19c77f4b-7307-4697-9320-8bbbe05aa85a&ui=en-US&rs=en-US&ad=US)
 
 ## Infographics / Storytelling
 _Infographics_
