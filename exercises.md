@@ -113,6 +113,14 @@ _____
 
 More resources, tutorials, and things to explore.
 
+## Accessibility and Design
+While most of this applies to websites, think also about how the general principles apply to other ways & means of telling our data stories.
++ [How People with Disabilities Use the Web](http://www.w3.org/WAI/intro/people-use-web/)
++ [Web Content Accessibility and Mobile Web](http://www.w3.org/WAI/mobile/overlap.html)
++ [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
++ [Web Accessibility Evaluation Tool](http://wave.webaim.org/)
++ [Considering the User Perspective](http://webaim.org/articles/userperspective/)
++ [Constructing a POUR Website](http://webaim.org/articles/userperspective/) Percievable, Operable, Understandable, Robust. Applies much wider than design of websites.
 
 ## Infographics / Storytelling
 _Infographics_
