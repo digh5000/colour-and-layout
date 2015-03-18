@@ -164,3 +164,7 @@ Oh, and here's a list of background maps you can use: [http://leaflet-extras.git
 Nicolas Felton is a renowned designer; this 90 minute workshop is worth watching and working through. [Skillshare](http://www.skillshare.com/classes/design/Data-Visualization-Designing-Maps-with-Processing-and-Illustrator/1063775924)
 
 Caveat: I do not use processing or illustrator, but processing is free and Inkscape can do many of the things that Illustrator does.
+
+## Diagramming with yWorks
+[http://www.yworks.com/en/](http://www.yworks.com/en/)
+![image](http://www.yworks.com/img/gallery/orthogonal_normal_trees_2_thumb.gif)
