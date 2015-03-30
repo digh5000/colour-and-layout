@@ -12,7 +12,7 @@ I will be adding more to this overview throughout the week (this is the *alpha* 
 + Owens, T. "Defining Data for Humanists: Text, Artifact, Information, or Evidence?" _Journal of Digital Humanities_ 2011 1.1. [http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 + Watters, Audrey. "Men (Still) Explain Technology to Me: Gender and Education Technology" _Hackeducation_ http://hackeducation.com/2015/03/11/men-still-explain/
 
-I also have a [number of pieces of my own archaeological work](https://carleton-ca.academia.edu/SMGraham) that I think provide examples of how humanistic visualization can be a driver of interpretation and understanding. I will bring these up in class for you to dismember/critique/explore.
+I also have a [number of pieces of my own archaeological work](https://carleton-ca.academia.edu/SMGraham) that I think provide examples of how humanistic visualization can be a driver of interpretation and understanding. I will bring these up in class for you to dismember/critique/explore.  Oh, and by the way: maps are great, but sometimes, maps of ideas are even better; check out this [landscape of Last.fm Folksonomy](http://info.slis.indiana.edu/~katy/research/10-Last.fm.pdf) (This is more of a mental reminder to myself to talk about this later in the module).
 
 ## Exercises
 
