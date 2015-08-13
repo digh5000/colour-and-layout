@@ -1,6 +1,6 @@
 # DIGH5000 assignment, November 3
 
-Here we are concerned about colour, layout, and manipulating graphics - but not necessarily in that order. Complete the 'Sprucing up a PDF in Inkscape' exercise, as well as the 'Typography', 'Colour', and 'Layout' exercises. Everything after that is optional (including the option to not do them).
+Here we are concerned about colour, layout, and manipulating graphics - but not necessarily in that order. 
 
 [Sprucing up a PDF in Inkscape](#sprucing-up-a-pdf-in-inkscape) | [Typography](#typography) | [Colour](#colour) | [Layout](#layout) | [More](#more)
 
