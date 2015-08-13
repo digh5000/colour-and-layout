@@ -1,6 +1,6 @@
-# Exercises
+# DIGH5000 assignment, November 3
 
-The exercises in this module are about colour, layout, and manipulating graphics - but not necessarily in that order. All students must complete the 'Sprucing up a PDF in Inkscape' exercise, as well as the 'Typography', 'Colour', and 'Layout' exercises. Everything after that is optional (including the option to not do them).
+Here we are concerned about colour, layout, and manipulating graphics - but not necessarily in that order. Complete the 'Sprucing up a PDF in Inkscape' exercise, as well as the 'Typography', 'Colour', and 'Layout' exercises. Everything after that is optional (including the option to not do them).
 
 [Sprucing up a PDF in Inkscape](#sprucing-up-a-pdf-in-inkscape) | [Typography](#typography) | [Colour](#colour) | [Layout](#layout) | [More](#more)
 
@@ -19,12 +19,12 @@ Vectors: descriptions of points and arcs
 
 ## Sprucing up a pdf in Inkscape
 
-Some of the tools that we used in Module 4 give visual output as raster images, others as vectors. Sometimes, we would like to tweak these outputs to make them more visually appealling, or clearer, or more useful. A program like MS Paint is only useful for dealing with raster images (and then, only in certain kinds of cases). We need a program that can deal with both, and also, lets us edit the image by treating each edit we do as a mostly-transparent layer on top of the image. That way, we can add, rearrange, hide or reveal, our edits to create a composite image. A free program that is immensely useful in this regard is [Inkscape](https://inkscape.org/en/). Inkscape is also quite useful in that we can open a pdf file in it, break the visual elements of the pdf into individual layers, and then rearrange/touch up/fix them up to make them more esthetically appealing.
+Some of the tools that we use give visual output as raster images, others as vectors. Sometimes, we would like to tweak these outputs to make them more visually appealling, or clearer, or more useful. A program like MS Paint is only useful for dealing with raster images (and then, only in certain kinds of cases). We need a program that can deal with both, and also, lets us edit the image by treating each edit we do as a mostly-transparent layer on top of the image. That way, we can add, rearrange, hide or reveal, our edits to create a composite image. A free program that is immensely useful in this regard is [Inkscape](https://inkscape.org/en/). Inkscape is also quite useful in that we can open a pdf file in it, break the visual elements of the pdf into individual layers, and then rearrange/touch up/fix them up to make them more esthetically appealing.
 
-In this first exercise, we will take the plot we generated in Module 4's exercise on topic modeling in R where we made a bar chart showing the number of articles by year. In R we exported that plot as a PDF. In Inkscape, we can import that pdf and 'explode' it so that we can manipulate its parts individually. We are going to take the simple bar chart and make it more legible, more visually appealing, for incorporation on a webpage.
+In this first exercise, we will modify a plot showing the number of articles by year (perhaps it's from a bibliographic study). This plot was exported as a pdf. In Inkscape, we can import that pdf and 'explode' it so that we can manipulate its parts individually. We are going to take the simple bar chart and make it more legible, more visually appealing, for incorporation on a webpage.
 
 1. Download and install [Inkscape](https://inkscape.org/en/) *nb Mac* the installation instructions are a bit more complicated for Mac. Pay attention and follow closely!
-2. Download the pdf we generated in R [publication-year.pdf](/publication-year.pdf) 
+2. Download the pdf. [publication-year.pdf](/publication-year.pdf) 
 3. Open that pdf. It's a pretty plain graphic. Right away there are at least two things we could do to make it more visually appealling. We could change the orientation of the characters in the y-axis to make them more legible. We can highlight bars of interest. And we could apply a colour scheme more generally that would make our graphic legible to folks with colour-blindness (see the 'going further' section at bottom).
 4. Start Inkscape. Click File >> Import >> and then navigate to where you save the 'publication-year.pdf'. Click Ok when you've got it selected. In the next pop-up, just accept the default settings and click 'ok'. Your Inkscape window should now look like this:<br>![inkscape1](/inkscape1.png)
 5. The pdf is now a layer in the new image you are creating in Inkscape. You can save this drawing, _with its information about the layers and what is in each one_ by clicking File >> Save As. ([here's my version](/exercise1drawing.svg)). 'SVG' stands for 'scalable vector graphic'.
@@ -49,12 +49,12 @@ Typographic plays an important role in visual communication. It can do everythin
 In this exercise, 
 + I want you to read and understand the section on [font choices from the Owl at Purdue](https://owl.english.purdue.edu/owl/resource/705/01/). 
 + Then, play some rounds of [Typeconnection](http://www.typeconnection.com/index.php). Pay attention to why - or why not - various pairings work. 
-+ Then, I want to consider the document you will be preparing for me that accounts for your learning in this course - the document where you choose your best exercises from the modules and explain how your approach to history, data, the digital, etc, has changed over this course. What typographic pair would work best for you? 
++ Then, I want to consider the document you will be preparing for me at the end of this course, your DH Primer. What typographic pair would work best for you? 
 + Finally, you'll make a webpage that uses those fonts and explains why they work.
 
 The first part of this exercise then is to find a pair and to understand why they work best for you - go read the materials above, and once you're done with the Typeconnection site, go to [Google Fonts](https://www.google.com/fonts) and search for a pair that are *suitable for your purpose*. When you find a font you like, click the 'add to collection' button. Then, at the bottom of the screen, you'll see a link for 'use'. Click on this - google will ask you if you want to use any of the variants of the font. Tick off accordingly. Then, do you see the embed code that google provides, and the code to integrate the font into your CSS (stylesheet)? Leave this window open - we're going to use it in a moment.
 
-1. In your repository, click the button beside 'branch'. In the search box that opens, type in ```gh-pages```. This will create a version of your repository that can be served as a website.
+1. In your own github repository, click the button beside 'branch'. In the search box that opens, type in ```gh-pages```. This will create a version of your repository that can be served as a website.
 2. You're now in the gh-pages branch. Click on the + sign beside the repository name. This will create a new file in your gh-branch of your repository. Call it ```myfontchoice.html``` <- the .html is important to specify; otherwise your browser will not know how to render your page.
 3. You now need to put some html in there. I've written a simple webpage that will use two fonts from Google Fonts, and then applies the font to my text depending on whether or not it is a header, which you specify like this: ```<h1> this is a header in between header tags </h1>``` or a paragraph, which you specify like this: ```<p>blah blah blah a paragraph of text blah blah blah</p>```. My webpage is [here](/fontexample.html); right-click the link and open in a new tab. Copy the html into your new html document. Commit your changes (ie, save!).
 4. Let's see what we've got. To see the website version of your gh-pages branch, you go to ```<yourusername>.github.io/<reponame>/myfontchoice.html``` <- ie, the final part of the url is the name of the document in your repo. Do that now. You should see a simple webpage, with two very distinctive fonts.
@@ -63,7 +63,7 @@ The first part of this exercise then is to find a pair and to understand why the
 8. Change my silly text for a paragraph that explains what the fonts are, and why they work for this purpose. Commit your changes.
 9. Go to the ```github.io``` version of your repository (if you forget the address, you can find it under the 'settings' button on your normal repository page when you're in the gh-pages branch). Reload the page a couple of times to clear the older version you've already looked at and to replace it with your version. Ta da! Not only have you thought carefully about typography and fonts, you've also learned how to serve a webpage from a Github repository.
 
-*Hint* You could use this as the basics of your submission for assessment, for your exercises. Build a webpage, link to your evidence, embed your images... For basic html [here's a really good guide to keep around](http://www.w3schools.com/html/default.asp). 
+*Hint* For basic html [here's a really good guide to keep around](http://www.w3schools.com/html/default.asp). 
 
 -----
 
@@ -71,7 +71,7 @@ The first part of this exercise then is to find a pair and to understand why the
 
 There's a lot of bumpf out there on the 'pyschology of colour'. Google it to see what I mean ([here's an example](http://www.youthedesigner.com/graphic-design-resources/infographic-graphic-design-resources/infographic-a-color-guide-for-designers/)). A lot of what you see here isn't so much psychology as it is associations (and indeed, western associations, at that). Associations are important of course; you don't want to undermine your message by making some unfortunate connections. 
 
-+ In this exercise, I want you to take the webpage you developed in the previous exercise, and make two versions of it: one, where the colours support the broader message of the page (a prototype for your exercises assessment piece, remember?), and the other where the colours _undermine_ that broader message. Explain, in both cases, how your colour choices enhance/detract.
++ In this exercise, I want you to take the webpage you developed in the previous exercise, and make two versions of it: one, where the colours support the broader message of the page (a prototype for your DH Primer?), and the other where the colours _undermine_ that broader message. Explain, in both cases, how your colour choices enhance/detract.
 
 > alternatively, you can make a one page slide in powerpoint doing the same thing.
 
@@ -148,10 +148,6 @@ _Storytelling_
 [Manylines](http://tools.medialab.sciences-po.fr/manylines) is an application that allows you to create narratives from network graphs. In essence, you upload a network file in .gexf format (which you can export from Gephi) and it renders it on the screen. There are some layout options to make the graph more intelligible. Then, you take a series of snapshots zoomed in on the graph in different places, and add text to describe what it is that's important about these networks. The app puts a Prezi-like wrapper around your snapshots, and the whole can then be embedded in a website or be used as a standalone website. [Here's my first attempt.](http://tools.medialab.sciences-po.fr/manylines/embed#/narrative/051b0a7a-c1af-458f-b6a1-e3b0964e577f) 
 
 You can also embed nearly anything in the narrative panels - youtube videos, [timeline.js](http://timeline.knightlab.com/), as long as you know how to correctly format an [iframe](http://www.w3schools.com/tags/tag_iframe.asp).  
-
-To give this a try, why not use the Texan Correspondence network we generated in earlier modules? Export it in .gexf format from gephi, import to ManyLines, and go! The interface is fairly straightforward. Just follow the prompts. 
-
-**Caveat Utilitor** I don't know how long anything made with ManyLines will live on their website. But, knowing what you know about wget and other tools, do you see how you could archive a copy on your own machine? ManyLines is available on [github](https://github.com/medialab/manylines) so you can certainly use it locally.
 
 ## Leaflet
 
